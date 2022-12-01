@@ -5,7 +5,7 @@ const Zabih = () => {
             <h1>
                 zabih
                 nabi
-                pari
+                pari``
             </h1>
         </div>
       );
